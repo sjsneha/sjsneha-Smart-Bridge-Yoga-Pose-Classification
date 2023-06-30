@@ -6,6 +6,6 @@ Demo Video Link - https://drive.google.com/file/d/13tnG_nAQRXbQbvCZg3eNzN6ZU5mXI
 
 Dataset Link - https://www.kaggle.com/datasets/elysian01/yoga-pose-classification
 
-Email-sneha.jayshri2020a@vitstudent.ac.in
+Email - sneha.jayshri2020a@vitstudent.ac.in
 
-Application ID-SPS_APL_20230530885
+Application ID - SPS_APL_20230530885
